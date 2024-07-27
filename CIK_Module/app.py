@@ -24,7 +24,7 @@ def main():
     primary_document = "aapl-20240330.htm"  # Example primary document name
 
     headers = {
-        "User-Agent": "MLT GS gspivey@mlt.org"
+        "User-Agent": "Anna Sanchez asa1607@wgu.edu"
     }
 
     document_url = get_document_url(cik, accession_number, primary_document)
